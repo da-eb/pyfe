@@ -1,3 +1,6 @@
+# this program computes the gross pay
+
+
 def grossPay():
     hours = input("Enter number of hours worked: ")
     rate = input("Enter the agreed per hour: ")
