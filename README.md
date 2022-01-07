@@ -1,0 +1,1 @@
+This repo contains solved exercises from python for everybody by dr Charles Serverance, i'm doing this out of boredom, and also to have a remote copy of my py scripts.
